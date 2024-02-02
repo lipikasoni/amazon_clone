@@ -22,3 +22,7 @@ Update Firebase configuration in firebase.js.
 -Run the application:
 npm start
 Feel free to explore and enhance this Amazon clone for your learning and development!
+
+
+### DEPLOYED LINK:
+https://clone-e87d4.web.app/
